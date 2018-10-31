@@ -1,2 +1,7 @@
 Hej Världen!
 Rad 2.
+Rad 3.
+git diff
+git status
+git add
+git commit -m "meddelande"
