@@ -6,3 +6,6 @@ git status
 git add
 git commit -m "meddelande"
 git log
+git branch <namnet>
+git branch (se brancher)
+git checkout <branchnamn> (för att byta till en branch)
