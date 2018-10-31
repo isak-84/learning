@@ -9,3 +9,4 @@ git log
 git branch <namnet>
 git branch (se brancher)
 git checkout <branchnamn> (för att byta till en branch)
+Nya rader i textfilen.
